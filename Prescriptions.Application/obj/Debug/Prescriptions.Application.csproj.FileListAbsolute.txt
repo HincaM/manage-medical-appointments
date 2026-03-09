@@ -1,0 +1,58 @@
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\Prescriptions.Application.dll.config
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\Prescriptions.Application.dll
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\Prescriptions.Application.pdb
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\FluentValidation.dll
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\MediatR.dll
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\Prescriptions.Domain.dll
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\Prescriptions.Domain.pdb
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\FluentValidation.xml
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\FluentValidation.DependencyInjectionExtensions.xml
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\MediatR.xml
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\obj\Debug\Prescriptions.Application.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\obj\Debug\Prescriptions.Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\obj\Debug\Prescrip.CA1BEC9C.Up2Date
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\obj\Debug\Prescriptions.Application.dll
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\obj\Debug\Prescriptions.Application.pdb
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Prescriptions.Application\bin\Debug\Newtonsoft.Json.xml
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\Prescriptions.Application.dll.config
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\Prescriptions.Application.dll
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\Prescriptions.Application.pdb
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\FluentValidation.DependencyInjectionExtensions.dll
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\FluentValidation.dll
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\MediatR.dll
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\Newtonsoft.Json.dll
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\Prescriptions.Domain.dll
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\Prescriptions.Domain.pdb
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\FluentValidation.xml
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\FluentValidation.DependencyInjectionExtensions.xml
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\MediatR.xml
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\Newtonsoft.Json.xml
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\obj\Debug\Prescriptions.Application.csproj.AssemblyReference.cache
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\obj\Debug\Prescriptions.Application.csproj.CoreCompileInputs.cache
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\obj\Debug\Prescrip.CA1BEC9C.Up2Date
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\obj\Debug\Prescriptions.Application.dll
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Prescriptions.Application\obj\Debug\Prescriptions.Application.pdb

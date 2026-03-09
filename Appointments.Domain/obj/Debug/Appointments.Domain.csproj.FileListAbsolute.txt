@@ -1,0 +1,12 @@
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Appointments.Domain\bin\Debug\Appointments.Domain.dll
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Appointments.Domain\bin\Debug\Appointments.Domain.pdb
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Appointments.Domain\obj\Debug\Appointments.Domain.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Appointments.Domain\obj\Debug\Appointments.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Appointments.Domain\obj\Debug\Appointments.Domain.dll
+C:\Users\Administrador\source\repo\ManageMedicalAppointments\Appointments.Domain\obj\Debug\Appointments.Domain.pdb
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Appointments.Domain\bin\Debug\Appointments.Domain.dll
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Appointments.Domain\bin\Debug\Appointments.Domain.pdb
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Appointments.Domain\obj\Debug\Appointments.Domain.csproj.AssemblyReference.cache
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Appointments.Domain\obj\Debug\Appointments.Domain.csproj.CoreCompileInputs.cache
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Appointments.Domain\obj\Debug\Appointments.Domain.dll
+E:\private\Juan\Pruebas técnicas\Inetum\repos\manage-medical-appointments\Appointments.Domain\obj\Debug\Appointments.Domain.pdb

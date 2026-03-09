@@ -1,0 +1,70 @@
+﻿using FluentAssertions;
+using Moq;
+using NUnit.Framework;
+using Prescriptions.Application.Features.Prescriptions.Deliver;
+using Prescriptions.Domain.Interfaces;
+using System.Threading;
+using System.Threading.Tasks;
+
+namespace Prescriptions.Tests
+{
+    [TestFixture]
+    public class DeliverPrescriptionCommandHandlerTests
+    {
+        private DeliverPrescriptionCommandHandler _handler;
+        private Mock<IPrescriptionsRepository> _prescriptionsRepository;
+
+        [SetUp]
+        public void Setup()
+        {
+            _prescriptionsRepository = new Mock<IPrescriptionsRepository>();
+            _handler = new DeliverPrescriptionCommandHandler(_prescriptionsRepository.Object);
+        }
+
+
+        [Test]
+        public async Task DeliverSuccess()
+        {
+            // Arrange
+            var command = new DeliverPrescriptionCommand
+            {
+                PrescriptionId = 1
+            };
+
+            _prescriptionsRepository
+                .Setup(repo => repo.Deliver(It.IsAny<int>(), It.IsAny<CancellationToken>()))
+                .ReturnsAsync(true);
+
+            // Act
+            var result = await _handler.Handle(command, CancellationToken.None);
+
+            // Assert
+            result.IsSuccess.Should().BeTrue();
+            result.Value.Should().BeTrue();
+        }
+
+        [Test]
+        public async Task DeliverFailure()
+        {
+            // Arrange
+            var command = new DeliverPrescriptionCommand
+            {
+                PrescriptionId = 1
+            };
+
+            _prescriptionsRepository
+                .Setup(repo => repo.Deliver(It.IsAny<int>(), It.IsAny<CancellationToken>()))
+                .ReturnsAsync(false);
+
+            // Act
+            var result = await _handler.Handle(command, CancellationToken.None);
+
+            // Assert
+            result.IsSuccess.Should().BeFalse();
+            result.Value.Should().BeFalse();
+        }
+    }
+}
+
+
+

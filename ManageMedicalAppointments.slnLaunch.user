@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Appointments.Api\\Appointments.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Persons.Api\\Persons.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Prescriptions.Api\\Prescriptions.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "C:\\Users\\Administrador\\source\\repos\\ManageMedicalAppointments\\ApiGateway\\ApiGateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "C:\\Users\\Administrador\\source\\repos\\ManageMedicalAppointments\\Authentication.Api\\Authentication.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
